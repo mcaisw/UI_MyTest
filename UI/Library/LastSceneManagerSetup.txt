@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/TestScene/TextMeshProTest.unity
+- path: Assets/TestScene/SpecialEffect.unity
   isLoaded: 1
   isActive: 1

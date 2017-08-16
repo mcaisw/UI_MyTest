@@ -317,6 +317,7 @@
     <Compile Include="Assets\Plugin\TextMesh Pro\Examples\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Plugin\TextMesh Pro\Examples\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\Plugin\TextMesh Pro\Examples\Scripts\WarpTextExample.cs" />
+    <Compile Include="Assets\Script\AssetBundleTest.cs" />
     <Compile Include="Assets\Script\ChineseCharacterConsole.cs" />
   </ItemGroup>
   <ItemGroup>
