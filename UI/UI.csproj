@@ -275,6 +275,8 @@
     <Compile Include="Assets\Script\ChineseCharacterConsole.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Font\ReadMe.txt" />
+    <None Include="Assets\Font\SimpleChineseAndSymbol.txt" />
     <None Include="Assets\Plugin\Demigiant\DOTween\DOTween.XML" />
     <None Include="Assets\Plugin\Demigiant\DOTween\DOTween43.xml" />
     <None Include="Assets\Plugin\Demigiant\DOTween\DOTween46.xml" />
