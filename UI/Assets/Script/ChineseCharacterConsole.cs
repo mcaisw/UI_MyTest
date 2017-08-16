@@ -7,7 +7,7 @@ public class ChineseCharacterConsole : MonoBehaviour {
 
     private TMP_Text m_TextComponent;
     private bool hasTextChanged;
-    public float PrintSpeed = 0.5f;
+    public float PrintSpeed = 1;
 
     void Awake()
     {
@@ -72,7 +72,7 @@ public class ChineseCharacterConsole : MonoBehaviour {
 
             visibleCount += 1;
 
-            yield return new WaitForSeconds(PrintSpeed);
+            yield return new WaitForSeconds(1/PrintSpeed);
         }
     }
 
