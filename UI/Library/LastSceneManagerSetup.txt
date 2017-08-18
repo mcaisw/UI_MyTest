@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/TestScene/DoTweenTest.unity
+- path: Assets/TestScene/UIAnd3DObject.unity
   isLoaded: 1
   isActive: 1

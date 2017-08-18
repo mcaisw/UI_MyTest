@@ -326,6 +326,7 @@
     <Compile Include="Assets\Plugin\TextMesh Pro\Examples\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\Script\AssetBundleTest.cs" />
     <Compile Include="Assets\Script\ChineseCharacterConsole.cs" />
+    <Compile Include="Assets\Script\ClickUIAnd3DObjects.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Font\ReadMe.txt" />
