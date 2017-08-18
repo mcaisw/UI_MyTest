@@ -14,7 +14,17 @@ public class ClickUIAnd3DObjects : MonoBehaviour {
 		
 	}
 
-    public void PointerDown() {
-        Debug.Log("按下");
+    public void PointerDownImage() {
+        Debug.Log("按下图片");
     }
+
+    public void PointerDown3DObject() {
+        Debug.Log("按下3DObject");
+
+    }
+    public void PointerDownButton()
+    {
+        Debug.Log("按下Button");
+    }
+
 }
