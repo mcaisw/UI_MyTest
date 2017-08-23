@@ -327,6 +327,9 @@
     <Compile Include="Assets\Script\AssetBundleTest.cs" />
     <Compile Include="Assets\Script\ChineseCharacterConsole.cs" />
     <Compile Include="Assets\Script\ClickUIAnd3DObjects.cs" />
+    <Compile Include="Assets\Script\LoadSpritesAtlas.cs" />
+    <Compile Include="Assets\Script\SpriteAltas.cs" />
+    <Compile Include="Assets\Script\YieldReturnStartCoroutine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Font\ReadMe.txt" />

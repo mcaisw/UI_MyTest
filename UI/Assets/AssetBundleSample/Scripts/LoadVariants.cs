@@ -5,8 +5,8 @@ using AssetBundles;
 
 public class LoadVariants : MonoBehaviour
 {
-	const string variantSceneAssetBundle = "variants/variant-scene";
-	const string variantSceneName = "VariantScene";
+    const string variantSceneAssetBundle = "variants/variant-scene";
+    const string variantSceneName = "VariantScene";
 	private string[] activeVariants;
 	private bool bundlesLoaded;				// used to remove the loading buttons
 
