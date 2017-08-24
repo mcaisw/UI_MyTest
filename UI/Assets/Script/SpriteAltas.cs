@@ -20,7 +20,7 @@ public class SpriteAltas{
     static private void MakeAtlas()
     {
         string spriteDir = Application.dataPath + "/Resources/Sprite";
-
+        Debug.Log("Application.dataPath" + Application.dataPath);
         if (!Directory.Exists(spriteDir))
         {
             Directory.CreateDirectory(spriteDir);
