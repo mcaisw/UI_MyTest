@@ -16,6 +16,7 @@ public class YieldReturnStartCoroutine : MonoBehaviour {
 
     IEnumerator PrintNum() {
         yield return StartCoroutine(Count10Times());
+        //yield return Count10Times();
         Debug.Log("PrintNum");
     }
     IEnumerator Count10Times() {
