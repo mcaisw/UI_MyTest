@@ -330,6 +330,7 @@
     <Compile Include="Assets\Script\LoadSpritesAtlas.cs" />
     <Compile Include="Assets\Script\SpriteAltas.cs" />
     <Compile Include="Assets\Script\YieldReturnStartCoroutine.cs" />
+    <Compile Include="Assets\Script\YouYoMove.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Font\ReadMe.txt" />

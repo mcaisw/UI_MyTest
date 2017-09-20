@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/TestScene/Yield_return_StartCoroutine_Test.unity
+- path: Assets/TestScene/DoTweenTest.unity
   isLoaded: 1
   isActive: 1
