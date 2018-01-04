@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/TestScene/DoTweenTest.unity
+- path: Assets/Plugin/NGUI/Examples/Scenes/Example 8 - Scroll View (Camera).unity
   isLoaded: 1
   isActive: 1
